@@ -4,7 +4,7 @@ Hi, I'm pretty much new to coding. I'm interested in learning more about Web Dev
 
 ### Hobbies
 
-- Cats🐈‍⬛
+- Cats  🐈‍⬛
 - Gardening
 - Cooking
 - 日本語
