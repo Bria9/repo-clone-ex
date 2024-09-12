@@ -12,6 +12,6 @@ Hi, I'm pretty much new to coding. I'm interested in learning more about Web Dev
     - Manga
 - Reading
 
-![Phoenix](AboutPage/images/Phoenix.png)
+![Phoenix](Phoenix.png)
 
 [OpenLibrary](https://openlibrary.org/)
